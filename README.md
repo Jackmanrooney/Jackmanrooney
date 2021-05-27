@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Jackmanrooney
-- 👀 I’m interested in Object Orientated Programming
+- 👀 I’m interested in Object Orientated Programming and Machine Learning
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Python Projects
 - 📫 How to reach me (HyperTigerStudios@gmail.com)
